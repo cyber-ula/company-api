@@ -1,0 +1,13 @@
+20220611	12:32:09	f9f6b612-5fe9-4340-939e-e4bfc5467247	TypeError: fsPromises.readFil is not a function
+20220613	10:19:04	067bf43c-2848-46b2-8025-30944fa91dae	Error: Not Allowed by CORS
+20220613	10:33:34	da4bc4a1-fe5f-413e-848d-d463f2586a54	Error: Not Allowed by CORS
+20220613	15:55:21	7bf57de4-36b9-44ab-b2b0-b35614b65e1a	TypeError: Cannot read properties of undefined (reading 'id')
+20220613	15:59:44	9bc3a556-26a9-4233-83fd-01f7fc3e7082	TypeError: Cannot read properties of undefined (reading 'id')
+20220613	16:00:29	707df519-0f7a-4bfd-a200-7cf970c68eeb	TypeError: Cannot read properties of undefined (reading 'id')
+20220613	16:02:53	233238a1-eba1-4027-99fb-e3265092b19a	TypeError: Cannot read properties of undefined (reading 'id')
+20220613	16:03:45	cdbfa9b8-21e8-4bf1-a6cc-0018c09a674b	TypeError: Cannot read properties of undefined (reading 'id')
+20220614	08:48:11	51862bef-a0b5-4b73-bd1e-00c3e0e42fa8	SyntaxError: Unexpected token } in JSON at position 36
+20220617	10:02:56	5314109b-a611-44e9-b769-9ab15940c926	TypeError: Cannot read properties of undefined (reading 'authorization')
+20220619	11:08:34	f9264932-e057-4a05-9b86-6be5c1ace119	ReferenceError: Cannot access 'allowedRoles' before initialization
+20220619	11:17:29	cfbc2324-201f-4eb6-b99d-38e2de07a262	ReferenceError: Cannot access 'allowedRoles' before initialization
+20220619	11:23:22	e0cc0aa7-f667-4296-ab16-700e0fd1c7db	ReferenceError: rolesArray is not defined
